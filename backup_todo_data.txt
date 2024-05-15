@@ -1,0 +1,4 @@
+eat|medium|13
+sleep|high|22
+exercise|low|6
+haircut|low|8
